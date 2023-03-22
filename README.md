@@ -51,3 +51,4 @@ Look at the example output below very closely and make sure the spacing of the o
              g     
              
 #### **Full project [here](https://replit.com/@SlightlySaltedT/boilerplate-budget-app).**
+#### **Assignment [here](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/budget-app).**
